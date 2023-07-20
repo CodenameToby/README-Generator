@@ -55,3 +55,42 @@ function promptUser() {
 }
 
 // function to generate README.md from user input using template literals
+function generateReadme(answers) {
+    return `
+# ${answers.title}
+
+## Description
+${answers.description}
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+
+## Installation
+${answers.installation}
+
+## Usage
+${answers.usage}
+
+## License
+![License Badge](https://img.shields.io/badge/license-${answers.license}-green)
+${answers.license} License
+
+## Contributing
+${answers.contributing}
+
+## Tests
+${answers.tests}
+
+## Questions
+For any additional questions, contact me at:
+- GitHub: [${answers.username}](https://github.com/${answers.username})
+- Email: ${answers.email}
+`;
+}
+
+// function to run the application
