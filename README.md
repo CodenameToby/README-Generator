@@ -1,9 +1,34 @@
-# README-Generator
-Command-line application that dynamically generates a professional README.md file from a user's input
 
-## 
+# t
 
-## Inquirer
-This application uses  inquirer v8.2.4  for Node,js which is an embeddable command line interface that eases the process of providing error feedback, asking questions, parsing input, validating answers and managing heirarchical prompts.
+## Description
+t
 
-We used the "prompt" method to launch the prompt inquiry session interface. This involves questions (Array of "question objects"), answers (object that contains values of already answered questions), and returns a "promise".
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+
+## Installation
+t
+
+## Usage
+t
+
+## License
+![License Badge](https://img.shields.io/badge/license-MIT-green)
+MIT License
+
+## Contributing
+t
+
+## Tests
+t
+
+## Questions
+For any additional questions, contact me at:
+- GitHub: [t](https://github.com/t)
+- Email: t
