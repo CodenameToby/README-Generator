@@ -1,8 +1,8 @@
 
-# t
+# Sample Repo
 
 ## Description
-t
+This application generates README files based on the user's input
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,22 +13,22 @@ t
 - [Questions](#questions)
 
 ## Installation
-t
+install the code and try it for yourself
 
 ## Usage
-t
+used to generate professional README files
 
 ## License
-![License Badge](https://img.shields.io/badge/license-MIT-green)
-MIT License
+![License Badge](https://img.shields.io/badge/license-GPL-green)
+GPL License
 
 ## Contributing
-t
+contributed from Inquirer
 
 ## Tests
-t
+this can be tested a variety of ways
 
 ## Questions
 For any additional questions, contact me at:
-- GitHub: [t](https://github.com/t)
-- Email: t
+- GitHub: [CodenameToby](https://github.com/CodenameToby)
+- Email: toby@warburton.com
